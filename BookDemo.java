@@ -58,3 +58,34 @@ class BookDemo
 	}
 }
 
+/*
+Enter the no. of book objects
+2
+enter the name of the book1
+LIFE
+enter the name of the author of the book1
+Abhinav
+enter the price of the book1
+499.99
+enter the no. of pages1
+376 
+enter the name of the book2
+PHYSICS
+enter the name of the author of the book2
+HC_Verma
+enter the price of the book2
+699.99
+enter the no. of pages2
+795
+Details of book1
+ name:LIFE
+ author:Abhinav
+ Price:499.99
+ No. of pages376
+Details of book2
+ name:PHYSICS
+ author:HC_Verma
+ Price:699.99
+ No. of pages795
+ */
+
