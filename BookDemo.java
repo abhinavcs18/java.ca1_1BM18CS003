@@ -9,6 +9,7 @@ class Book
 		name="\0";
 		author="\0";
 		num_pages=0;
+		price=0;
 	}
 	void set(int j)
 	{
