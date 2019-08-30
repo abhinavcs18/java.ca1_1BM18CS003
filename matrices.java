@@ -55,3 +55,37 @@ int j;
 System.out.println(" The two matrix have different order");
 }
 }
+
+
+
+
+/*
+Enter the no. of book objects
+2
+enter the name of the book1
+LIFe
+enter the name of the author of the book1
+Av
+enter the price of the book1
+8970.67
+enter the no. of pages1
+2344 
+enter the name of the book2
+WHOOO
+enter the name of the author of the book2
+Abhizz
+enter the price of the book2
+1499.99
+enter the no. of pages2
+1043 
+Details of book1
+name:LIFe
+ author:Av
+ Price:8970.67
+ No. of pages2344
+Details of book2
+name:WHOOO
+ author:Abhizz
+ Price:1499.99
+ No. of pages1043
+*/
