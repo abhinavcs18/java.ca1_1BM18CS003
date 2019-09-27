@@ -66,3 +66,31 @@ class Main
 		ref.printArea();
 	}
 }
+
+/* output:
+ENTER YOUR CHOICE
+1: Rectangle 
+2: Circle 
+3: Triangle
+1
+Enter length and breadth
+2
+3
+Area of rectangle = 6
+ENTER YOUR CHOICE
+1: Rectangle 
+2: Circle 
+3: Triangle
+3
+Enter the base and height of triangle
+3
+4
+Area of triangle 6.0
+ENTER YOUR CHOICE
+1: Rectangle 
+2: Circle 
+3: Triangle
+2
+Enter the radius of the area
+2
+Area of circle = 12.56
